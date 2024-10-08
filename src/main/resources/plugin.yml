@@ -1,0 +1,9 @@
+name: KMSRituale
+version: '${project.version}'
+main: me.marc3308.kmsrituale.KMSRituale
+api-version: '1.20'
+
+commands:
+  KMSRituale:
+    description: the command to eddit rituals
+    permission: Ritual+.Admin

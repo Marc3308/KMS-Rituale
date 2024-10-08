@@ -1,0 +1,8 @@
+name: KMSRituale
+version: '1.20.1'
+main: me.marc3308.kmsrituale.KMSRituale
+api-version: '1.20'
+
+commands:
+  KMSRituale:
+    description: the command to eddit rituals
