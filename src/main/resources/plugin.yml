@@ -1,6 +1,7 @@
 name: KMSRituale
 version: '${project.version}'
 main: me.marc3308.kmsrituale.KMSRituale
+depend: [zerotrust]
 api-version: '1.20'
 
 commands:
